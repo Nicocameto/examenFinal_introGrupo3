@@ -1,4 +1,4 @@
-# examenFinal_introGrupo3
+# Grupo3
 Examen final intro.
 
 
